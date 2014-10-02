@@ -12,6 +12,7 @@
 }
 
 #nav > a {
+    clear: both;
     font-size: 12px;
     font-weight: 500;
     margin-right: 0.5em;
